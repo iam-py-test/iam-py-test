@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am a programmer/security researcher who likes maintatining filter lists for uBlock Origin and reporting malware/bugs.
+My personal uBlock Origin filters are at iam-py-test/my_filters_001: My filter lists - feel free to add these lists to uBlock Origin
 <!--
 **iam-py-test/iam-py-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
