@@ -2,7 +2,7 @@
 I am a programmer/security researcher who likes maintatining filter lists for uBlock Origin and reporting malware/bugs.<br/>
 Because I am new to GitHub, please forgive me if I make an error <br/>
 My personal uBlock Origin filters are at https://github.com/iam-py-test/my_filters_001 <br/>
-Projects I have contributed to: [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt/issues/185) (Also https://github.com/DandelionSprout/adfilt/issues/188) and [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets/issues/9183) <br/> <!--https://github.com/uBlockOrigin/uAssets/issues/9117-->
+Projects I have contributed to: [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt/issues/185) (Also https://github.com/DandelionSprout/adfilt/issues/188), [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets/issues/9183) <!--https://github.com/uBlockOrigin/uAssets/issues/9117--> and [spirillen/ublockorigin-rules](https://github.com/spirillen/ublockorigin-rules/issues/9) <br/>
 I'm looking for help with: troubleshooting problems with [check-site](https://github.com/iam-py-test/check-site) and adding/removing entries in [my personal lists](https://github.com/iam-py-test/my_filters_001).<br/>
 Pronouns: He/Him
 <!--
