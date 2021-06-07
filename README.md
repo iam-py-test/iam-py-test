@@ -6,7 +6,12 @@ Projects I have contributed to: [DandelionSprout/adfilt](https://github.com/Dand
 I'm looking for help with: troubleshooting problems with [check-site](https://github.com/iam-py-test/check-site) and adding/removing entries in [my personal lists](https://github.com/iam-py-test/my_filters_001).<br/>
 Pronouns: He/Him
 
-<img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" />
+
+#### Stats 
+
+<img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark" /> 
+<img alt="My top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-py-test">
+
 <!--
 **iam-py-test/iam-py-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
