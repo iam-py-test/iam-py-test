@@ -11,7 +11,7 @@ You can contact me as iam-py-test on GitHub and GitLab
 #### Stats 
 
 <img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true" /> 
-<img align="center" alt="My top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-py-test&langs_count=12">
+<img align="center" alt="My top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-py-test&langs_count=24">
 
 
 #### Saying hello
