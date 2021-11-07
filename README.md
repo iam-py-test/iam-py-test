@@ -9,10 +9,12 @@ You can contact me as iam-py-test on GitHub and GitLab
 
 
 #### Stats 
-
-<img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true" /> 
+<details>
+  <summary>Stats</summary>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-py-test" align="center"><br>
+<img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true" /> <br>
 <img align="center" alt="My top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-py-test&langs_count=40&noc=132113172894719">
-
+</details>
 
 #### Saying hello
 
