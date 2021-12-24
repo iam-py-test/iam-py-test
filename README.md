@@ -4,7 +4,6 @@ My personal uBlock Origin filters are at https://github.com/iam-py-test/my_filte
 Projects I have contributed to: [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt/issues/185)<!-- (Also https://github.com/DandelionSprout/adfilt/issues/188)-->, [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets/issues/9183)<!--https://github.com/uBlockOrigin/uAssets/issues/9117-->, [spirillen/ublockorigin-rules](https://github.com/spirillen/ublockorigin-rules/issues/9), [VernonStow/Filterlist](https://github.com/VernonStow/Filterlist/issues/1), and [github/codeql](https://github.com/github/codeql/issues/6067). <br/>
 I'm looking for help with: improving [my antivirus](https://github.com/iam-py-test/unwanted-program-removal-tool) and adding/removing entries in [my personal lists](https://github.com/iam-py-test/my_filters_001).<br/>
 Pronouns: He/Him<br>
-Prefers to refered to as: iam-py-test<br>
 You can contact me as iam-py-test on GitHub and GitLab
 
 
