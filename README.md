@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a programmer/security researcher who likes maintaining filter lists for uBlock Origin, finding malware, and writing Python.<br/>
+I am a programmer/security researcher who likes maintaining filter lists for uBlock Origin, finding malware, and writing Python. I am very good at breaking things, but not as good at fixing things I have broken. <br/>
 My personal uBlock Origin filters are at https://github.com/iam-py-test/my_filters_001 <br/>
 I also help maintain [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/discussions/163). <br>
 Pronouns: He/Him<br>
