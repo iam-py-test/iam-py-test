@@ -3,7 +3,8 @@ I am a programmer/security researcher who likes maintaining filter lists for uBl
 My personal uBlock Origin filters are at https://github.com/iam-py-test/my_filters_001 <br/>
 I also help maintain [Actually Legitimate URL Shortener Tool](https://github.com/DandelionSprout/adfilt/discussions/163). <br>
 Pronouns: He/Him<br>
-You can contact me as iam-py-test on GitHub and GitLab. I have [more contact methods listed on my website](https://iam-py-test.github.io/about.html).
+You can contact me as iam-py-test on GitHub and GitLab. I have [more contact methods listed on my website](https://iam-py-test.github.io/about.html).<br>
+**Many of my projects are not actively maintained, always check the date of the last commit and verify the code still works**
 
 #### Projects
 <details>
