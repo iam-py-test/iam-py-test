@@ -1,5 +1,3 @@
-**:warning: The EARNIT act is an attack on the privacy and security of every United States citizen. [Learn more](https://www.eff.org/deeplinks/2023/05/eff-letter-congress-oppose-earn-it-act-and-stop-csam-act). :warning:**
-
 ### Hi there 👋
 I am a programmer/security researcher who likes maintaining filter lists for uBlock Origin, finding malware, and writing Python. I am very good at breaking things, but not as good at fixing things I have broken. <br/>
 My personal uBlock Origin filters are at https://github.com/iam-py-test/my_filters_001 <br/>
