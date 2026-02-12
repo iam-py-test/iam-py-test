@@ -11,14 +11,14 @@ You can contact me as iam-py-test on GitHub and GitLab. I have [more contact met
   <summary>My projects</summary>
   <p><a href="https://github.com/iam-py-test/my_filters_001">My filterlists</a></p>
   <p><a href="https://github.com/iam-py-test/vxvault_filter">Converting VXVault into a uBlock Origin filterlist</a></p>
+  <p><a href="https://github.com/iam-py-test/blocklist_stats">Collecting data on filterlists</a></p>
+  <p><a href="https://github.com/iam-py-test/malware-passwords">A list of passwords used by malicious password protected archives</a></p>
   </details>
 
 #### Stats 
 <details>
   <summary>Stats</summary>
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-py-test" align="center"><br>
-<img align="center" alt="iam-py-test's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iam-py-test&show_icons=true&include_all_commits=true&count_private=true" /> <br>
-<img align="center" alt="My top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-py-test&langs_count=90&noc=535436363">
 </details>
 
 <!--
