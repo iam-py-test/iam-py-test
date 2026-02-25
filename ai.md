@@ -2,6 +2,7 @@
 
 Except where otherwise noted, this is the AI policy for all of my projects. I figured I would put it here rather than duplicate it in every repository. By opening an issue or pull request, or contributing to any of my repositories in any form, you agree to comply with this policy.
 
+For the purposes of this policy, artificial intelligence refers specifically to generative artificial intelligence. Generative artificial intelligence is a type of AI which learns patterns from its training data, and uses that to generate new data - such as images or code - based on that training data. Code created by generative artificial intelligence frequently contains security vulnerabilities and bugs. Text from generative artificial intelligence frequently contains errors and misrepresentation of sources. Generative artificial intelligence is also bad at handling context, meaning it is vulnerable to taking misinformation, satire, roleplay, fiction, and suggestions as fact.<br>
 Submitting AI generated issues or code is forbidden; all issue reports and code must be entirely written by real people. If you are going to use AI for research, which I recommend against, such use *must* be disclosed and any information from the AI must be verified using independent sources. This includes citing articles, social media posts, or any other content generated with AI. Any issue report or code suspected to be AI will be subject to extended review, and may be rejected.<br>
 AI bots are not permitted to contribute to these repositories, as their contributions are frequently low quality.<br>
 Any permitted AI use must be disclosed. This includes *but is not limited to* disclosing the following information:
@@ -12,8 +13,6 @@ Any permitted AI use must be disclosed. This includes *but is not limited to* di
 
 Contributors may be asked to disclose additional information, including prompts and full AI output. Contributors who fail to disclose this information may face extended review or rejection of issue reports and pull requests.
 
-If any section of this policy is held to be void or otherwise unenforceable, all other sections shall remain in effect.
-
 ### Violations
 These are general rules about dealing with violations, and I reserve the right to change them at any time without advance notice and comment.
 
@@ -22,3 +21,8 @@ Suspected AI agents and bots may be asked to provide proof of legitimacy; how th
 
 Future contributions from violators may be subject to extended review. Repeat violators may be temporarily banned, and eventually permanently banned. Ban evasion may result in the violators' alt accounts being permanently banned.
 
+### Legal notes
+
+This policy is copyleft 2026, no rights reserved. No portion of this policy was generated using artificial intelligence.<br>
+This policy does not supercede GitHub's terms of service and policies, or national and international laws.<br>
+If any section of this policy is held to be void or otherwise unenforceable, all other sections shall remain in effect.
