@@ -6,6 +6,8 @@ Except where otherwise noted, this is the AI policy for all of my projects. I fi
 
 &emsp;Submitting AI generated issues or code is forbidden; all issue reports and code must be entirely written by real people. If you are going to use AI for research, which I recommend against, such use *must* be disclosed and any information from the AI must be verified using independent sources. This includes citing articles, social media posts, or any other content generated with AI. Any issue report or code suspected to be AI will be subject to extended review, and may be rejected.
 
+&emsp;Contributors must seek approval before using any program to create issues or pull requests automatically or en masse. Any account used to submit issue reports or pull requests en masse in an automated manner will be banned. Use of accessability tools obviously does *not* count as submitting an issue in an automated manner, as there is still a real person creating the issue. Using a bot to iterate through every newly added domain in [ThreatFox](https://threatfox.abuse.ch/) and submit an issue report for each one *does* count, as that would flood the issue tracker with hundreds of issues.
+
 &emsp;By default, GitHub and VSCode (both owned by Microsoft) offer the option to generate a commit message using AI. All commit messages used in contributions to this repository must be written by humans, as to ensure they are clear and accurate, since AI may not understand the context and purpose of a change. I recommend turning off these features.<br>
 
 AI bots are not permitted to contribute to these repositories, as their contributions are frequently low quality.<br>
@@ -17,6 +19,10 @@ Any permitted AI use must be disclosed. This includes *but is not limited to* di
 - Indicating what parts of the issue/PR are based on the AI output
 
 Contributors may be asked to disclose additional information, including prompts and full AI output. Contributors who fail to disclose this information may face extended review or rejection of issue reports and pull requests.
+
+No provision of this policy shall preclude submitting AI generated content (i.e. AI generated malware, scam sites, etc) made by threat actors as evidence.
+
+Any code, image, or other data deliberately designed to poison AI training data or otherwise interfere with AI will be considered malware, and any contributor knowingly submitting such data will be subject to an investigation and possible permanent ban. This applies to any contributor attempting to add any other form of malware to any project, excluding the submission of malware as evidence.
 
 ### Violations
 These are general rules about dealing with violations, and I reserve the right to change them at any time without advance notice and comment.
