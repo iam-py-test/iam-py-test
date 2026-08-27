@@ -14,12 +14,6 @@ You can contact me as iam-py-test on GitHub and GitLab. I have [more contact met
   <p><a href="https://github.com/iam-py-test/malware-passwords">A list of passwords used by malicious password protected archives</a></p>
   </details>
 
-#### Stats 
-<details>
-  <summary>Stats</summary>
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-py-test" align="center"><br>
-</details>
-
 <!--
 **iam-py-test/iam-py-test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
